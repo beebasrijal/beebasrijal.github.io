@@ -1,0 +1,1 @@
+document.getElementsByTagName("h1").textContent = "Always work like this";
